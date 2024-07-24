@@ -52,7 +52,7 @@ This section lists the main frameworks/libraries used.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See ['LICENSE'](https://github.com/BangNopall/WT-IMS/edit/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/BangNopall/WT-IMS/edit/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
