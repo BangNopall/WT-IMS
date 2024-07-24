@@ -44,7 +44,7 @@ WT-IMS is an inventory management system application for the WhiteTiger organiza
 This section lists the main frameworks/libraries used.
 
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap.urlwwwwwwww]
+* [![Bootstrap][Bootstrap.com]][Bootstrap.url]
 * [![Laravel][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
